@@ -20,6 +20,8 @@ presentation:
   backgroundTransition: 'default'
 ---
 
+@import "styles.less"
+
 <!-- slide class="milestone" data-notes="" -->
 
 # Ведение дневника
