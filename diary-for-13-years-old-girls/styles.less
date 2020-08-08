@@ -1,13 +1,4 @@
 .markdown-preview.markdown-preview {
-  // please write your custom style here
-  // eg:
-  //  color: blue;          // change font color
-  //  font-size: 14px;      // change font size
-  // custom pdf output style
-  @media print {
-  }
-
-  // custom presentation style
   .reveal .slides {
     text-align: left;
 
@@ -40,6 +31,10 @@
       }
     }
 
+    .milestone {
+      
+    }
+
     img {
       border: none;
       box-shadow: none;
@@ -62,6 +57,31 @@
   .slides > section:nth-child(1) {
     // this will modify `the first slide`
     text-align: center;
+  }
+
+  .slides:after {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    content: "someta.site/slides";
+    color: lightskyblue;
+    text-decoration: underline;
+    font-size: 24px;
+  }
+
+  .slides:before {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    content: "";
+    background-image: url("https://sun9-61.userapi.com/c629514/v629514335/42dd4/nEw0E2fFWTA.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0px -6px;
+    opacity: 33%;
   }
 }
 
