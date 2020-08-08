@@ -32,5 +32,6 @@
   "scm.diffDecorations": "gutter",
   "scm.diffDecorationsGutterVisibility": "hover",
   "editor.scrollBeyondLastColumn": 0,
-  "markdown.extension.toc.downcaseLink": true
+  "markdown.extension.toc.downcaseLink": true,
+  "markdown.extension.toc.levels": "2..3"
 }
