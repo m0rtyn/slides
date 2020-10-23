@@ -1,0 +1,99 @@
+.markdown-preview.markdown-preview {
+  .reveal .slides {
+    text-align: left;
+
+    #hi {
+      text-align: center;
+
+      img {
+        position: absolute;
+      }
+    }
+
+    #toc {
+      & > ul > li {
+        font-size: 30px  !important;
+        // opacity: 60%;
+
+        & > ul > li {
+          font-size: 16px;
+        }
+      }
+      
+      // & > ul > li:nth-child(2) {
+      //   opacity: 100% !important;
+      // }
+    }
+
+    .emoji {
+      text-align: center;
+      p {
+        font-size: 240px;
+      }
+    } 
+
+    .centered {
+      p {
+        margin: auto;
+        text-align: center;
+      }
+    }
+
+    .milestone {
+      text-align: center;
+    }
+
+    img {
+      border: none;
+      box-shadow: none;
+    }
+
+    h1, h2 {
+      text-align: center;
+    }
+
+    h3, h4, h5 {
+      margin: 1em 0;
+      text-transform: initial !important;
+    }
+
+    li {
+      margin: 0.5em;
+    }
+  }
+
+  .slides > section:nth-child(1) {
+    // this will modify `the first slide`
+    text-align: center;
+  }
+
+  .slides:after {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    content: "someta.site/slides";
+    // color: lightskyblue;
+    text-decoration: underline;
+    font-size: 24px;
+    opacity: 60%;
+  }
+
+  // .slides:before {
+  //   position: absolute;
+  //   bottom: 0;
+  //   left: 0;
+  //   width: 60px;
+  //   height: 60px;
+  //   background-color: white;
+  //   content: "";
+  //   background-image: url("https://sun9-61.userapi.com/c629514/v629514335/42dd4/nEw0E2fFWTA.jpg");
+  //   background-size: cover;
+  //   background-repeat: no-repeat;
+  //   background-position: 0px -6px;
+  //   opacity: 33%;
+  // }
+}
+
+.md-sidebar-toc.md-sidebar-toc {
+  // sidebar TOC style
+}
