@@ -4,33 +4,51 @@
 
     #hi {
       text-align: center;
-
+      
       img {
         position: absolute;
+        box-shadow: none;
       }
     }
 
     #toc {
+      
       & > ul > li {
+        list-style-type: none;
         font-size: 30px  !important;
         // opacity: 60%;
-
+        
         & > ul > li {
-          font-size: 16px;
+          list-style-type: none;
+          font-size: 15px;
         }
       }
+
       
       // & > ul > li:nth-child(2) {
-      //   opacity: 100% !important;
-      // }
+        //   opacity: 100% !important;
+        // }
     }
 
+    #last-slide {
+      ul, ol {
+        font-size: 30px;
+      }
+    }
+ 
     .emoji {
       text-align: center;
       p {
         font-size: 240px;
       }
     } 
+
+    .helptip {
+      font-size: 30px;
+      position: absolute;
+      left: 0;
+      bottom: 0;
+    }
 
     .centered {
       p {
@@ -43,37 +61,45 @@
       text-align: center;
     }
 
+    
     img {
       border: none;
       box-shadow: none;
     }
-
+    
     h1, h2 {
       text-align: center;
     }
-
+    
     h3, h4, h5 {
       margin: 1em 0;
       text-transform: initial !important;
     }
-
+    
     li {
       margin: 0.5em;
     }
   }
-
+  
   .slides > section:nth-child(1) {
     // this will modify `the first slide`
     text-align: center;
   }
 
+  #slides-link {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+  
   .slides:after {
     position: absolute;
     bottom: 0;
     right: 0;
     content: "someta.site/slides";
     // color: lightskyblue;
-    text-decoration: underline;
+    // text-decoration: underline;
     font-size: 24px;
     opacity: 60%;
   }
