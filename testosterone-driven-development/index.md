@@ -137,7 +137,7 @@ presentation:
 
 <!-- TODO: memes picture about burned devs -->
 
-<!-- slide data-background-image="https://static.wikia.nocookie.net/spongebob/images/f/f7/Waiting_title_card.png/revision/latest?cb=20190712180759" -->
+<!-- slide data-background-image="./images/waiting_title_card.webp" -->
 
 <img class="fragment" src="./images/monsta-original.png" data-fragment-index="1" data-transition="slide" style="
 position: absolute;
