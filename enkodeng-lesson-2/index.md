@@ -27,6 +27,14 @@ presentation:
 <p style="font-size: 5em">⚛️ & 💅</p>
 
 <!-- slide -->
+### 🛢 Материалы
+
+- [styled-components.com](https://styled-components.com/)
+- [Перевод книги про атомарный дизайн](https://medium.com/%D0%B0%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/atomic-design-foreword-4960ad17bc1a)
+- [Atomic Design 101](https://uxdesign.cc/atomic-design-101-8c5106d77717)
+- [Использованный способ сделать переключение темы](https://www.smashingmagazine.com/2020/04/dark-mode-react-apps-styled-components/)
+  
+<!-- slide -->
 
 ## Atomic design
 
@@ -235,12 +243,4 @@ scss-like syntax
 #### css`` interpolation
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/00dc106c-e289-4118-9a1d-adb082136dae/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201120T155210Z&X-Amz-Expires=86400&X-Amz-Signature=f5adc40bfb3715c5036bc3027854ab44b41a36dbe681d1837a5270f87b741910&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
-
-<!-- slide -->
-### 🛢 Материалы
-
-- [styled-components.com](https://styled-components.com/)
-- [Перевод книги про атомарный дизайн](https://medium.com/%D0%B0%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/atomic-design-foreword-4960ad17bc1a)
-- [Atomic Design 101](https://uxdesign.cc/atomic-design-101-8c5106d77717)
-- [Использованный способ сделать переключение темы](https://www.smashingmagazine.com/2020/04/dark-mode-react-apps-styled-components/)
 

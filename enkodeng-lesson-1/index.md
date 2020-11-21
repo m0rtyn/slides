@@ -26,6 +26,17 @@ presentation:
 # Разработка изолированных компонентов
 <p style="font-size: 5em">🧱</p>
 
+<!-- slide -->
+### 🛢 Материалы
+
+- [Интро в Сторибук](https://www.learnstorybook.com/intro-to-storybook/)
+- [Макет приложения](https://www.figma.com/file/HbaePNYYfSLoizyVOKDevM/Tasker-Copy?node-id=0%3A174)
+- [Серверный API](https://documenter.getpostman.com/view/8858534/SW7dX7JG#97c7e1ce-0a37-4d6d-89af-aba8f34f1f4c)
+- [Вычислительная сложность](https://www.wikiwand.com/ru/%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C#/%D0%90%D1%81%D0%B8%D0%BC%D0%BF%D1%82%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+- [Цикломатическая сложность](https://www.wikiwand.com/ru/%D0%A6%D0%B8%D0%BA%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+- [Новые (опять) принципы написания компонентов от дяди Дэна](https://overreacted.io/writing-resilient-components/)
+
+
 <!-- slide id="hi" sdata-notes="Меня зовут Мартын. Я фронтендер в Коде, а ещё я читаю доклады и веду стажировки"-->
 ### 🤚 Привет
 
@@ -134,15 +145,3 @@ power search — 0 мин, на LiveCoding
 "-->
 
 ## Минусы
-
-
-<!-- slide -->
-### 🛢 Материалы
-
-- [Интро в Сторибук](https://www.learnstorybook.com/intro-to-storybook/)
-- [Макет приложения](https://www.figma.com/file/HbaePNYYfSLoizyVOKDevM/Tasker-Copy?node-id=0%3A174)
-- [Серверный API](https://documenter.getpostman.com/view/8858534/SW7dX7JG#97c7e1ce-0a37-4d6d-89af-aba8f34f1f4c)
-- [Вычислительная сложность](https://www.wikiwand.com/ru/%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C#/%D0%90%D1%81%D0%B8%D0%BC%D0%BF%D1%82%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
-- [Цикломатическая сложность](https://www.wikiwand.com/ru/%D0%A6%D0%B8%D0%BA%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
-- [Новые (опять) принципы написания компонентов от дяди Дэна](https://overreacted.io/writing-resilient-components/)
-
