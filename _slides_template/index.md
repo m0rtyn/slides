@@ -20,6 +20,9 @@ presentation:
   backgroundTransition: 'default'
 ---
 
+<!-- common styles -->
+@import "../styles.less "
+<!-- talk styles -->
 @import "styles.less"
 
 <!-- slide class="milestone" data-notes="" -->
