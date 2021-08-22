@@ -13,7 +13,7 @@
   "zenMode.restore": true,
   "workbench.iconTheme": "vs-minimal",
   "editor.wordWrap": "bounded",
-  "workbench.colorTheme": "Default Light+",
+  "workbench.colorTheme": "GitHub Dark Default",
   "cSpell.enabledLanguageIds": ["latex", "markdown"],
   "tabnine.disable_file_regex": ["[.]md$"],
   "breadcrumbs.enabled": false,
