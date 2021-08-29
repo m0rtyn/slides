@@ -41,6 +41,7 @@ presentation:
 " -->
 
 - [Meta](#meta)
+  - [😶 Об авторе](#-об-авторе)
   - [Ссылки](#ссылки)
   - [12 Storeez](#12-storeez)
 - [Oпенсорс сегодня](#oпенсорс-сегодня)
@@ -80,14 +81,22 @@ presentation:
 
 <!-- slide vertical=true data-notes="..." -->
 
+### 😶 Об авторе
+
+- 💬 [Телеграм](https://t.me/m0rtyn)
+- 👤 [Обо мне](https://someta.site/martyn)
+- 🧑‍💻 [Гитхаб](https://github.com/m0rtyn)
+- 🖊 [Телеграм-канал](https://t.me/metabaza)
+- 🌐 [Блог](https://someta.site)
+
+<!-- slide vertical=true data-notes="..." -->
+
 ### Ссылки
 
-- Чат для вопросов
-  **https://bit.ly/oss-as-altruism**
 - Эта презентация
   **https://someta.site/talks/opensource-as-altruism**
 - Материалы доклада открыты
-  **https://github.com/m0rtyn/slides**
+  **https://github.com/m0rtyn/slides/tree/master/opensource-as-altruism**
 
 <!-- slide vertical=true data-notes="..." -->
 
