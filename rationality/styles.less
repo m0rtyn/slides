@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "Cera Pro";
+  src: url("assets/CeraPro-Regular.woff") format("woff");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("assets/CeraPro-Medium.woff") format("woff");
+  font-style: normal;
+  font-weight: 600;
+}
+
+html {
+  --accent-color: #780002;
+  --logo-color: #887568;
+
+  --primary-color-one: #7E7C7C;
+  --primary-color-two: #C6A994;
+  --primary-color-three: #DCD6D1;
+
+  --secondary-color-one: #7D787D;
+  --secondary-color-two: #99908D;
+  --secondary-color-three: #ACA4A2;
+  --secondary-color-four: #C9C9C8;
+}
+
+.markdown-preview.markdown-preview {
+  font-family: "Cera Pro", Arial, Helvetica, sans !important;
+  font-weight: 500 !important;
+
+  p, li, ol, span, strong, em, b {
+    color: var(--primary-color-one) !important;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Cera Pro", Arial, Helvetica, sans !important;
+    font-weigth: 600 !important;
+  }
+  
+  h1, h2 {
+    color: var(--primary-color-three);
+    text-shadow:
+      4px 4px 4px var(--secondary-color-one),
+      2px 2px 0px var(--primary-color-one);  
+  }
+  
+  h3, h4, h5, h6 {
+    color: var(--secondary-color-one);
+  }
+
+  code, pre, blockquote {
+    font-family: 'Anonymous pro', monospace;
+    color: var(--secondary-color-two);
+  }
+
+  a {
+    color: var(--accent-color);
+    text-decoration: underline;
+
+    &:hover, &:focus, &:active {
+      opacity: 0.66;
+    }
+  }
+ 
+  .milestone h1 {
+    word-wrap: normal !important;
+    text-transform: none !important;
+    font-size: 92px;
+  }
+  
+  .emoji {
+    font-size: 240px;
+    margin: 0 auto;
+  }
+
+  .image-over {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .image-half {
+    max-width: 50%;
+  }
+
+  .slides:after {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+    height: 100px;
+    content: "https://someta.site/talks/rationality" !important;
+    background-image: url(assets/qrcode.png);
+    font-size: 24px;
+    color: var(--secondary-color-one);    
+  }
+}
