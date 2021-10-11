@@ -25,17 +25,50 @@ presentation:
 <!-- talk styles -->
 @import "styles.less"
 
-<!-- slide class="milestone" data-notes="" -->
+<!-- slide id="toc" data-notes="
+Вот содержание доклада, которое может вам понадобиться если вы будете пересматривать слайды.
+</br></br>
+Они доступны уже сейчас по адресу, который отображается в правом нижнем углу
+" -->
+- [Meta](#meta)
+  - [😶 Об авторе](#-об-авторе)
+  - [Ссылки](#ссылки)
+  - [12 Storeez](#12-storeez)
+- [Title...](#title)
 
+<!-- slide class="title-slide milestone" data-notes="" -->
 # 📝 Talk title
 
 <!-- slide class="milestone" data-notes="..."-->
 ## Meta
 
-<!-- slide id="hi" data-notes="Hello, my name is John Doe..."-->
+<!-- slide id="hi" data-notes="
+Привет, меня завут Мартын и вы можете знать меня по таким докладам как:
+<br>- Testosterone driven development
+<br>- Не QWERTY единной
+<br>- 255 оттенков серого
+"-->
+<img title="" src="../assets/troy-mccryre.png" />
 
-![](../assets/troy-mccryre.png)
+<!-- slide vertical=true data-notes="..." -->
+### 😶 Об авторе
 
-<!-- slide data-notes="..." -->
+- 💬 [Телеграм](https://t.me/m0rtyn)
+- 👤 [Обо мне](https://someta.site/martyn)
+- 🧑‍💻 [Гитхаб](https://github.com/m0rtyn)
+- 🖊 [Телеграм-канал](https://t.me/metabaza)
+- 🌐 [Блог](https://someta.site)
 
-### WTF
+<!-- slide vertical=true data-notes="..." -->
+### Ссылки
+
+- Эта презентация
+  **https://someta.site/talks/opensource-as-altruism**
+- Материалы доклада открыты
+  **https://github.com/m0rtyn/slides/tree/master/opensource-as-altruism**
+
+<!-- slide vertical=true data-notes="..." -->
+### 12 Storeez
+
+<!-- slide class="milestone" data-notes="..." -->
+## Title...
