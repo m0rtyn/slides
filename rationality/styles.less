@@ -40,10 +40,13 @@ html {
   }
   
   h1, h2 {
-    color: var(--primary-color-three);
+    color: white;
     text-shadow:
-      4px 4px 4px var(--secondary-color-one),
-      2px 2px 0px var(--primary-color-one);  
+      0px 0px 16px black,
+      0px 0px 8px black,
+      0px 0px 4px black,
+      0px 0px 2px black,
+      1px 1px 1px black;
   }
   
   h3, h4, h5, h6 {
@@ -91,9 +94,12 @@ html {
     right: 0;
     width: 100px;
     height: 100px;
-    content: "https://someta.site/talks/rationality" !important;
+    background-color: #ffffff77;
+    border-radius: 8px;
+    content: "someta.site/talks/rationality" !important;
     background-image: url(assets/qrcode.png);
     font-size: 24px;
     color: var(--secondary-color-one);    
+    z-index: 9999;
   }
 }
