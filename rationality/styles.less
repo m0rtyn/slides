@@ -66,6 +66,10 @@ html {
       opacity: 0.66;
     }
   }
+
+  .long-list ul li {
+    font-size: 0.5em !important;
+  }
  
   .milestone h1 {
     word-wrap: normal !important;
@@ -92,14 +96,16 @@ html {
     position: absolute;
     bottom: 0;
     right: 0;
-    width: 100px;
-    height: 100px;
-    background-color: #ffffff77;
+    width: 124px;
+    background-color: #ffffff;
     border-radius: 8px;
     content: "someta.site/talks/rationality" !important;
     background-image: url(assets/qrcode.png);
     font-size: 24px;
     color: var(--secondary-color-one);    
     z-index: 9999;
+    display: block;
+    padding: 0.5em;
+    word-wrap: break-word;
   }
 }
