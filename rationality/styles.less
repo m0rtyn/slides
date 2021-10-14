@@ -78,7 +78,7 @@ html {
   }
   
   .emoji {
-    font-size: 240px;
+    font-size: 210px !important;
     margin: 0 auto;
   }
 
@@ -93,17 +93,22 @@ html {
   }
 
   .slides:after {
-    width: 100px;
-    height: 100px;
-    background-color: #ffffff;
-    border-radius: 8px;
-    content: "someta.site/talks/rationality" !important;
-    background-image: url(assets/qrcode.png);
-    font-size: 24px;
-    color: var(--secondary-color-one);    
-    z-index: 9999;
+    content: "someta.site /talks /rationality" !important;
+    font-family: monospace;
     display: block;
+    width: 12ch;
+    // height: 100px;
+    background-color: #ffffff;
+
+    color: black;    
+    z-index: 9999;
     padding: 0.5em;
     word-wrap: break-word;
+    border-radius: 8px;
+    opacity: 0.33;
+
+    &:hover {
+      opacity: 1;
+    }
   }
 }
