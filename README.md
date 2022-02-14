@@ -7,4 +7,4 @@
 - [Open source. Почему разработчики делятся](https://m0rtyn.github.io/slides/opensource-as-altruism/index.html)
 
 ## Записи докладов
-Можно посмотреть здесь** (Youtube): [https://bit.ly/martyn-talks](https://bit.ly/martyn-talks)
+Можно посмотреть здесь (Youtube): [https://bit.ly/martyn-talks](https://bit.ly/martyn-talks)
