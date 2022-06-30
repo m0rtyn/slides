@@ -6,4 +6,5 @@
 - [Testosterone Driven Development](https://m0rtyn.github.io/slides/testosterone-driven-development/index.html)
 - [Open source. Почему разработчики делятся](https://m0rtyn.github.io/slides/opensource-as-altruism/index.html)
 
-**Записи докладов можно посмотреть здесь**: https://www.youtube.com/playlist?list=PLWYGgkgDvA_8q1dTsD0soKIMezctgchVL
+## Записи докладов
+Можно посмотреть здесь (Youtube): [https://bit.ly/martyn-talks](https://bit.ly/martyn-talks)
