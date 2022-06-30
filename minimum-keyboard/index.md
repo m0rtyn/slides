@@ -76,8 +76,8 @@ presentation:
 ### Какие есть инструменты
 
 - Punto switcher (cross) <!-- .element: class="fragment" data-fragment-index="1" -->
-- Mahou (win) <!-- .element: class="fragment" data-fragment-index="2" -->
 - Caramba switcher (cross) <!-- .element: class="fragment" data-fragment-index="3" -->
+- Mahou (win) <!-- .element: class="fragment" data-fragment-index="2" -->
 
 <!-- slide -->
 ### Как использовать
@@ -85,6 +85,10 @@ presentation:
 - Отключение автопереключения <!-- .element: class="fragment" data-fragment-index="1" -->
 - Настройка горячей клавиши смены раскладки <!-- .element: class="fragment" data-fragment-index="2" -->
 - Настройка горячей клавиши переключения выделенного текста <!-- .element: class="fragment" data-fragment-index="3" -->
+
+
+<!-- slide -->
+## Фонетические раскладки
 
 <!-- slide -->
 ## Переключение языка
@@ -116,7 +120,7 @@ presentation:
 ## Печать вслепую
 
 <!-- slde -->
-##  Раскладка
+## Раскладка
   
 <!-- slide class="centered" data-notes="Я Мартын. Занимаюсь не только тем, что пишу в днeвник. Я Фронтендер и Скрам-мастер. В работе дневник мне помогает быстрее принимать решения и учиться на ошибках. Сейчас нахожусь в поиске команд и проектов." -->
 ## Кто я

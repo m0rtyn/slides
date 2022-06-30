@@ -6,7 +6,11 @@
     "editor.rulers": [],
     "editor.fontSize": 18,
     "editor.lineHeight": 25,
-    "editor.quickSuggestions": false
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
   },
   "cSpell.language": "en,ru",
   "cSpell.enabled": true,
