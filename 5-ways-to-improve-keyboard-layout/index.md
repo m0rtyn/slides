@@ -26,6 +26,7 @@ presentation:
 <!-- slide id="toc" -->
 - [Мета](#мета)
   - [Привет](#привет)
+- [Улучшения](#улучшения)
   - [Транслитерация](#транслитерация)
   - [Ассоциативная совместимость раскладок](#ассоциативная-совместимость-раскладок)
   - [Переключение верхнего регистра](#переключение-верхнего-регистра)
@@ -88,9 +89,9 @@ presentation:
 
 <code>(7)</code>
 
-<!-- slide class="milestone white-text" data-background-image="2022-07-16-15-56-30.png"
+<!-- slide class="milestone text-background centered" data-background-image="2022-07-16-15-56-30.png"
 data-notes="" -->
-<h2 style="color: white; text-shadow: 10px 0px 10px black; -0px -0px 10px black">Улучшения</h2>
+## Улучшения
 
 <!-- slide class="emoji" data-notes="
 Самая очевидная вещь чтобы сократить количество ошибок и раздражения — это научить компьютер исправлять ошибки за нас.
