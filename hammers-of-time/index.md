@@ -38,7 +38,7 @@ presentation:
 
 <!-- slide class="title-slide milestone" data-notes="" -->
 # 🔨⏳🤓 Mолотки Времени
-(марафон по CFAR handbook)
+марафон по CFAR handbook
 Спикер: Ма́ртын
 
 <!-- slide data-notes="..." -->
