@@ -40,7 +40,7 @@ presentation:
 Полагаюсь на помощь людей и самоорганизацию чата
 " -->
 
-## ~~Сообщество~~
+## <s> Сообщество </s>
 
 <ul>
   <li class="fragment" data-fragment-index="1">
