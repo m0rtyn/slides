@@ -30,7 +30,7 @@ presentation:
 
 <!-- slide class="title-slide milestone" data-notes="" -->
 
-# ⏳🔨🤓<br>Mолотки Времени
+# ⚒️⏳<br>Mолотки Времени
 
 марафон по CFAR handbook
 
