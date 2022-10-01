@@ -131,7 +131,7 @@ data-notes="
 
 Темп произвольный. Длительность не менее 3 месяцев.
 
-[Молотки Времени в Телеграме](t.me/hammers_of_time)
+[Молотки Времени в Телеграме](https://t.me/hammers_of_time)
 
 <!-- slide vertical="true" -->
 <img src="./assets/qr.png" 
