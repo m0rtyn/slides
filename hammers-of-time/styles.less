@@ -1,11 +1,6 @@
 .markdown-preview.markdown-preview {
   --accent-color: #ffd900;
 
-  code, pre {
-    font-family: 'Anonymous pro', 'Courier New', Courier, monospace;
-    color: gray;
-  }
-
   h1 {
     font-size: 120px !important;
     color: var(--accent-color);
@@ -29,17 +24,21 @@
   }
 
   a {
-    color: var(--accent-color) !important;
+    color: white !important;
+    text-decoration-color: var(--accent-color) !important;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 2px;
   }
 
   sup {
     font-size: 0.5em;
-    color: gray;
+    color: #999;
     padding: 0 0.2em;
   }
 
   s {
-    text-decoration-color: gray;
+    text-decoration-color: #999;
   }
 
   .emoji {
@@ -63,7 +62,7 @@
     right: 0;
     content: "https://bit.ly/hammers-of-time" !important;
     font-size: 24px;
-    color: #777;
+    color: #999 !important;
   }
 
 }
