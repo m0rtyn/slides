@@ -4,7 +4,7 @@ presentation:
   margin: 0.1
   minScale: 0.2
   maxScale: 1.5
-  controls: false
+  controls: true
   progress: true
   slideNumber: false
   keyboard: true
