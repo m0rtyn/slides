@@ -1,0 +1,67 @@
+.markdown-preview.markdown-preview {
+  --accent-color: #ff4d00;
+
+  h1 {
+    font-size: 120px !important;
+    color: var(--accent-color);
+  }
+
+  h2, h3 {
+    margin: 0 !important;
+    line-height: 2 !important;
+    position: relative;
+    text-align: left !important;
+
+    &:after {
+      display: block;
+      position: absolute;
+      content: '';
+      height: 10px;
+      top: 90%;
+      background: var(--accent-color);
+      width: 100px;
+    }
+  }
+
+  a {
+    color: white !important;
+    text-decoration-color: var(--accent-color) !important;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 8px;
+  }
+
+  sup {
+    font-size: 0.5em;
+    color: #999;
+    padding: 0 0.2em;
+  }
+
+  s {
+    text-decoration-color: #999;
+  }
+
+  .emoji {
+    font-size: 240px;
+    margin: 0 auto;
+  }
+
+  .image-over {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .image-half {
+    max-width: 50%;
+  }
+
+  .slides:after {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    content: "bit.ly/martyn-reflection" !important;
+    font-size: 24px;
+    color: #999 !important;
+  }
+}
