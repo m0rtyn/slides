@@ -63,7 +63,7 @@ presentation:
 Он также посвящён пути улучшения, но более доступному.
 " -->
 
-![Все умрут, а я останусь](./assets/Untitled.png)
+![Все умрут, а я останусь](./assets/untitled.png)
 
 <!-- slide class="centered" data-notes="" -->
 - Про историю QWERTY и раскладку Martynak вы можете послушать [в моём докладе на PiterPy](https://www.youtube.com/watch?v=vXjp7R0G9ws)
