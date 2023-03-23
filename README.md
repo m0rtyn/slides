@@ -8,6 +8,7 @@
 - [5 улучшений клавиатурной раскладки прежде чем вы изобретёте свою](https://m0rtyn.github.io/slides/5-ways-to-improve-keyboard-layout/index.html)
 - [Рационалность: искусство меньше ошибаться](https://m0rtyn.github.io/slides/rationality/index.html)
 - [🔨⏳🤓 Молотки времени: марафон по CFAR handbook](https://m0rtyn.github.io/slides/hammers-of-time/index.html)
+- [test](https://m0rtyn.github.io/slides/NVC-lang-2.0/index.html)
 
 ## Записи докладов
 Можно посмотреть здесь (Youtube): [https://bit.ly/martyn-talks](https://bit.ly/martyn-talks)
