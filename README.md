@@ -9,6 +9,7 @@
 7. [Декларативное ревью кода](https://m0rtyn.github.io/slides/declarative-code-review/index.html)
 8. [🔨⏳🤓 Молотки времени: марафон по CFAR handbook](https://m0rtyn.github.io/slides/hammers-of-time/index.html)
 9. [Исследование ритмов бодрости](https://m0rtyn.github.io/slides/rhythm-study/index.html)
+10. [5 принципов рефлексии](https://m0rtyn.github.io/slides/self-reflection/index.html)
 
 ## Записи докладов
 Можно посмотреть здесь (Youtube): [https://bit.ly/martyn-talks](https://bit.ly/martyn-talks)
