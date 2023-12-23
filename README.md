@@ -10,6 +10,8 @@
 8. [🔨⏳🤓 Молотки времени: марафон по CFAR handbook](https://m0rtyn.github.io/slides/hammers-of-time/index.html)
 9. [Исследование ритмов бодрости](https://m0rtyn.github.io/slides/rhythm-study/index.html)
 10. [Раньше будет лучше: 5 принципов саморефлексии](https://m0rtyn.github.io/slides/self-reflection/index.html)
+11. [Слабость воли: Как сохранить и сэкономить](https://m0rtyn.github.io/slides/weakness-of-will)
+12. [255 Оттенков Серого: Цветовые модели в CSS](https://m0rtyn.github.io/slides/255-shades-of-gray)
 
 ## Записи докладов
 Можно посмотреть здесь (Youtube): [https://bit.ly/martyn-talks](https://bit.ly/martyn-talks)
